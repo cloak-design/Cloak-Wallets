@@ -43,13 +43,20 @@ Version 2.0.2.1 as indicated by the 'DEFENDER' codename focuses on security enha
 10. When the blockchain finnishes downloading cloakCoin-qt app will be running and in full sync!
 11. Always remember  -> to Encrypt your wallet via password Keyphrase! + backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure!
 
-<br /><b>Linux installation</b><br />
-<li>If you have installed a previous version, please stop the running wallet.</li>
-<li>Backup your wallet.dat</li>
-<li>Remove the old installation</li>
-<li>Open a terminal as user</li>
-<li>cd</li>
-<li>mv .CloakCoin .CloakCoin_backup</li>
+### Linux installation
+
+1. If you have installed a previous version, please stop the running wallet.
+2. Backup your wallet.dat
+3. Remove the old installation
+4. Open a terminal as user
+
+```
+cd
+mv .CloakCoin .CloakCoin_backup
+```
+
+
+
 <li>Unzip the download.</li>
 <li><li>Open a terminal with root rights</li>
 <li>cd /opt</li>
