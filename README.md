@@ -84,7 +84,7 @@ apt-get install libcurl3 libcurl3-gnutls
 #### If cloakcoin doesnt start, please post the output of:
 
 dd cloakcoin-qt | grep found
-to the comments with your distribution name and version.
+to the chat with your distribution name and version.
 
 ## Cloakteam
 For additional help and support you can find us here:
