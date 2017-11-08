@@ -49,34 +49,35 @@ Version 2.0.2.1 as indicated by the 'DEFENDER' codename focuses on security enha
 2. Backup your wallet.dat
 3. Remove the old installation
 4. Open a terminal as user
-
 ```
 cd
 mv .CloakCoin .CloakCoin_backup
 ```
+4. Unzip the download.
+5. Open a terminal with root rights
+```
+cd /opt
+mkdir -vp cloakcoin/2.0.2.1_defender
+cd !$
+mv /path/to/unzipped/cloakcoin* 
+chmod +x cloakcoin*
+ln -s /opt/cloakcoin/2.0.2.1_defender/cloakcoin-qt /usr/local/bin/cloakcoin
+```
 
-
-
-<li>Unzip the download.</li>
-<li><li>Open a terminal with root rights</li>
-<li>cd /opt</li>
-<li>mkdir -vp cloakcoin/2.0.2.1_defender</li>
-<li>cd !$</li>
-<li>mv /path/to/unzipped/cloakcoin* .</li>
-<li>chmod +x cloakcoin*</li>
-<li>ln -s /opt/cloakcoin/2.0.2.1_defender/cloakcoin-qt /usr/local/bin/cloakcoin</li>
-On some debian/ubuntu distributions you need to installing missing libs as with root privileges:
+#### N.B. On some debian/ubuntu distributions you need to installing missing libs as with root privileges:
+```
 apt-get update
 apt-get install libcurl3 libcurl3-gnutls
-run cloakcoin with your user account
-Follow the instructions from the installer.
-Say yes to the 'auto blockchain downloader' this will be the faster way!
-Let your wallet find other nodes and sync the blockchain
+```
+6. run cloakcoin with your user account
+7. Follow the instructions from the installer.
+8. Say yes to the 'auto blockchain downloader' this will be the faster way!
+9. Let your wallet find other nodes and sync the blockchain
 
 
-If cloakcoin doesnt start, please post the output of
+### If cloakcoin doesnt start, please post the output of
 
 dd cloakcoin-qt | grep found
 to the comments with your distribution name and version.
 
-<br />
+
