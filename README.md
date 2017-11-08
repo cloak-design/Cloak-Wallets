@@ -27,36 +27,39 @@ INSERT GITHUB DOWNLOAD LINK
 <li>Follow the instructions from the installer.</li>
 <li>Say yes to the 'auto blockchain downloader' this will be the fastest way!</li>
 <li>Start your new Cloakcoin 2.0 wallet and let it find other nodes and sync the blockchain</li>
-Enjoy CloakCoin!!
+<br />
+<b>Enjoy CloakCoin!!</b>
 
 <b>Mac OSX installation</b><br />
-Download Mac Wallet
-Extract zip file and start cloakCoin-qt.xxxx.dmg
-Drag & Drop the cloakCoin-qt App in the Application Folder
-Start cloakCoin-qt App in Application Folder -> you will get a warning that the app is from a unidentified developer
-Choose Apple menu > System Preferences, then click Security & Privacy. Read more.
-You need to unblock the app by clicking the 'Open Anyway' in Security & Privacy
-the cloakCoin-qt app will continue with the instalation.
-You will get a warning: 'Cant find local blockchain…..Would you like to auto-download it?'
-Click 'Yes'
-when the blockchain finnishes downloading cloakCoin-qt app will be running and in full sync!
-Always remember  -> to Encrypt your wallet via password Keyphrase! + backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure!
+<li>Download Mac Wallet</li>
+<li>Extract zip file and start cloakCoin-qt.xxxx.dmg</li>
+<li>Drag & Drop the cloakCoin-qt App in the Application Folder</li>
+<li>Start cloakCoin-qt App in Application Folder -> you will get a warning that the app is from a unidentified developer</li>
+<li>Choose Apple menu > System Preferences, then click Security & Privacy. Read more.</li>
+<li>You need to unblock the app by clicking the 'Open Anyway' in Security & Privacy</li>
+<li>The cloakCoin-qt app will continue with the installation.</li>
+<li>You will get a warning: 'Cant find local blockchain…..Would you like to auto-download it?'</li>
+<li>Click 'Yes'</li>
+<li>When the blockchain finnishes downloading cloakCoin-qt app will be running and in full sync!</li>
+<li>Always remember  -> to Encrypt your wallet via password Keyphrase! + backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure!</li>
+<br />
+<b>Enjoy CloakCoin!!</b>
 
 <b>Linux installation</b><br />
-If you have installed a previous version, please stop the running wallet.
-Backup your wallet.dat
-Remove the old installation
-Open a terminal as user
-cd
-mv .CloakCoin .CloakCoin_backup
-Unzip the download.
-Open a terminal with root rights
-cd /opt
-mkdir -vp cloakcoin/2.0.2.1_defender
-cd !$
-mv /path/to/unzipped/cloakcoin* .
-chmod +x cloakcoin*
-ln -s /opt/cloakcoin/2.0.2.1_defender/cloakcoin-qt /usr/local/bin/cloakcoin
+<li>If you have installed a previous version, please stop the running wallet.</li>
+<li>Backup your wallet.dat</li>
+<li>Remove the old installation</li>
+<li>Open a terminal as user</li>
+<li>cd</li>
+<li>mv .CloakCoin .CloakCoin_backup</li>
+<li>Unzip the download.</li>
+<li><li>Open a terminal with root rights</li>
+<li>cd /opt</li>
+<li>mkdir -vp cloakcoin/2.0.2.1_defender</li>
+<li>cd !$</li>
+<li>mv /path/to/unzipped/cloakcoin* .</li>
+<li>chmod +x cloakcoin*</li>
+<li>ln -s /opt/cloakcoin/2.0.2.1_defender/cloakcoin-qt /usr/local/bin/cloakcoin</li>
 On some debian/ubuntu distributions you need to installing missing libs as with root privileges:
 apt-get update
 apt-get install libcurl3 libcurl3-gnutls
@@ -64,7 +67,8 @@ run cloakcoin with your user account
 Follow the instructions from the installer.
 Say yes to the 'auto blockchain downloader' this will be the faster way!
 Let your wallet find other nodes and sync the blockchain
-Enjoy CloakCoin!!
+<br />
+<b>Enjoy CloakCoin!!</b>
  
 
 If cloakcoin doesnt start, please post the output of
