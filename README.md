@@ -1,18 +1,18 @@
 # Cloak-Wallets
-<h3>Overview</h3>
-<p>Cloakcoin 2.0.2.1 'DEFENDER' for Windows, Linux, MacOS and Raspberry Pi</p>
+## Overview
+Cloakcoin 2.0.2.1 'DEFENDER' for Windows, Linux, MacOS and Raspberry Pi
  
 We are very pleased to present to you the latest update to the CloakCoin core software.
  
 Version 2.0.2.1 as indicated by the 'DEFENDER' codename focuses on security enhancements. This release brings added security improvements to the Enigma and CloakShield communication layer, full details can be found on the list of improvements and enhancements.  Also arriving with this release are the translation sets for French and Russian as well some minor bug fixes, the QT GUI received some functionality and cosmetic touches.
 
-<b>Windows Wallet</b><br />
+**Windows Wallet**
 INSERT GITHUB DOWNLOAD LINK
 
-<b>Mac OSX Wallet</b><br />
+**Mac OSX Wallet**
 INSERT GITHUB DOWNLOAD LINK
 
-<b>Linux Wallet</b><br />
+**Linux Wallet**
 INSERT GITHUB DOWNLOAD LINK
 
 ## Instructions
@@ -28,18 +28,18 @@ INSERT GITHUB DOWNLOAD LINK
 8. Say yes to the 'auto blockchain downloader' this will be the fastest way!
 9. Start your new Cloakcoin 2.0 wallet and let it find other nodes and sync the blockchain
 <br />
-<b>Mac OSX installation</b><br />
-<li>Download Mac Wallet</li>
-<li>Extract zip file and start cloakCoin-qt.xxxx.dmg</li>
-<li>Drag & Drop the cloakCoin-qt App in the Application Folder</li>
-<li>Start cloakCoin-qt App in Application Folder -> you will get a warning that the app is from a unidentified developer</li>
-<li>Choose Apple menu > System Preferences, then click Security & Privacy. Read more.</li>
-<li>You need to unblock the app by clicking the 'Open Anyway' in Security & Privacy</li>
-<li>The cloakCoin-qt app will continue with the installation.</li>
-<li>You will get a warning: 'Cant find local blockchain…..Would you like to auto-download it?'</li>
-<li>Click 'Yes'</li>
-<li>When the blockchain finnishes downloading cloakCoin-qt app will be running and in full sync!</li>
-<li>Always remember  -> to Encrypt your wallet via password Keyphrase! + backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure!</li>
+### Mac OSX installation
+1. Download Mac Wallet
+2. Extract zip file and start cloakCoin-qt.xxxx.dmg
+3. Drag & Drop the cloakCoin-qt App in the Application Folder
+4. Start cloakCoin-qt App in Application Folder -> you will get a warning that the app is from a unidentified developer
+5. Choose Apple menu > System Preferences, then click Security & Privacy. Read more.
+6. You need to unblock the app by clicking the 'Open Anyway' in Security & Privacy
+7. The cloakCoin-qt app will continue with the installation.
+8. You will get a warning: 'Cant find local blockchain…..Would you like to auto-download it?'
+9. Click 'Yes'
+<li>When the blockchain finnishes downloading cloakCoin-qt app will be running and in full sync!
+<li>Always remember  -> to Encrypt your wallet via password Keyphrase! + backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure!
 <br />
 <b>Linux installation</b><br />
 <li>If you have installed a previous version, please stop the running wallet.</li>
