@@ -1,10 +1,11 @@
 # Cloak-Wallets
 Download Links for Cloak Coin wallets
 
-Windows wallet <br />
-Cloak-Wallets/cloakCoin_qt-daemon_linux_x64_v2.0.2.1.defender.zip
+<b>Windows Wallet</b><br />
+INSERT GITHUB DOWNLOAD LINK
 
-OSX Wallet <br />
+<b>Mac OSX Wallet</b><br />
+INSERT GITHUB DOWNLOAD LINK
 
 <b>Linux Wallet</b><br />
-Cloak-Wallets/cloakCoin_qt-daemon_linux_x64_v2.0.2.1.defender.zip
+INSERT GITHUB DOWNLOAD LINK
