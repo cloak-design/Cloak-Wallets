@@ -83,7 +83,7 @@ apt-get install libcurl3 libcurl3-gnutls
 dd cloakcoin-qt | grep found
 to the comments with your distribution name and version.
 
-### - Cloakteam
+## Cloakteam
 For additional help and support you can find us here:
 [Rocketchat](https://chat.cloakcoin.com)
 
