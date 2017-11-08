@@ -7,13 +7,13 @@ We are very pleased to present to you the latest update to the CloakCoin core so
 Version 2.0.2.1 as indicated by the 'DEFENDER' codename focuses on security enhancements. This release brings added security improvements to the Enigma and CloakShield communication layer, full details can be found on the list of improvements and enhancements.  Also arriving with this release are the translation sets for French and Russian as well some minor bug fixes, the QT GUI received some functionality and cosmetic touches.
 
 **Windows Wallet**<br />
-https://github.com/CloakProject/2.0.2.1-Wallets/raw/master/cloakCoin_qt-daemon_win_x86_v2.0.2.1.defender.zip
+[Download](https://github.com/CloakProject/2.0.2.1-Wallets/raw/master/cloakCoin_qt-daemon_win_x86_v2.0.2.1.defender.zip)
 
 **Mac OSX Wallet**<br />
-https://github.com/CloakProject/2.0.2.1-Wallets/raw/master/cloakCoin_qt_osx_x64_v2.0.2.1.defender.zip
+[Download](https://github.com/CloakProject/2.0.2.1-Wallets/raw/master/cloakCoin_qt_osx_x64_v2.0.2.1.defender.zip)
 
 **Linux Wallet**<br />
-https://github.com/CloakProject/2.0.2.1-Wallets/raw/master/cloakCoin_qt-daemon_linux_x64_v2.0.2.1.defender.zip
+[Download](https://github.com/CloakProject/2.0.2.1-Wallets/raw/master/cloakCoin_qt-daemon_linux_x64_v2.0.2.1.defender.zip)
 
 ## Instructions
 
