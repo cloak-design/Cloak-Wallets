@@ -75,9 +75,11 @@ apt-get install libcurl3 libcurl3-gnutls
 9. Let your wallet find other nodes and sync the blockchain
 
 
-### If cloakcoin doesnt start, please post the output of
+#### If cloakcoin doesnt start, please post the output of:
 
 dd cloakcoin-qt | grep found
 to the comments with your distribution name and version.
+
+##Enjoy Cloak!
 
 
