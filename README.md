@@ -15,18 +15,18 @@ INSERT GITHUB DOWNLOAD LINK
 <b>Linux Wallet</b><br />
 INSERT GITHUB DOWNLOAD LINK
 
-<h3>Instructions</h3>
+## Instructions
 
-<b>Windows installation</b><br />
-<li>If you have installed a previous version, please stop the running wallet.</li>
-<li>Backup your wallet.dat</li>
-<li>If your previous version is CloakCoin 1.x, please make a deinstallation!!!</li>
-<li>If your previous version is CloakCoin 2.x, you can make an update and dont need to make a deinstallation.</li>
-<li>Unzip the download.</li>
-<li>Now start the downloaded exe file and run it as an administrator.</li>
-<li>Follow the instructions from the installer.</li>
-<li>Say yes to the 'auto blockchain downloader' this will be the fastest way!</li>
-<li>Start your new Cloakcoin 2.0 wallet and let it find other nodes and sync the blockchain</li>
+### Windows installation
+1. If you have installed a previous version, please stop the running wallet.
+2. Backup your wallet.dat
+3. If your previous version is CloakCoin 1.x, please make a deinstallation!!!
+4. If your previous version is CloakCoin 2.x, you can make an update and dont need to make a deinstallation.
+5. Unzip the download.
+6. Now start the downloaded exe file and run it as an administrator.
+7. Follow the instructions from the installer.
+8. Say yes to the 'auto blockchain downloader' this will be the fastest way!
+9. Start your new Cloakcoin 2.0 wallet and let it find other nodes and sync the blockchain
 <br />
 <b>Mac OSX installation</b><br />
 <li>Download Mac Wallet</li>
