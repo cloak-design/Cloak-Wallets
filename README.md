@@ -15,6 +15,9 @@ Version 2.0.2.1 as indicated by the 'DEFENDER' codename focuses on security enha
 **Linux Wallet**<br />
 [Download](https://github.com/CloakProject/2.0.2.1-Wallets/raw/master/cloakCoin_qt-daemon_linux_x64_v2.0.2.1.defender.zip)
 
+**Android Wallet**<br />
+[Download](https://play.google.com/store/apps/details?id=com.cloakcoin.wallet)
+
 For additional help and support you can find us here:
 [Rocketchat](https://chat.cloakcoin.com)
 
