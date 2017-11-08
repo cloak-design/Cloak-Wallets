@@ -28,8 +28,6 @@ INSERT GITHUB DOWNLOAD LINK
 <li>Say yes to the 'auto blockchain downloader' this will be the fastest way!</li>
 <li>Start your new Cloakcoin 2.0 wallet and let it find other nodes and sync the blockchain</li>
 <br />
-<b>Enjoy CloakCoin!!</b>
-
 <b>Mac OSX installation</b><br />
 <li>Download Mac Wallet</li>
 <li>Extract zip file and start cloakCoin-qt.xxxx.dmg</li>
@@ -43,8 +41,6 @@ INSERT GITHUB DOWNLOAD LINK
 <li>When the blockchain finnishes downloading cloakCoin-qt app will be running and in full sync!</li>
 <li>Always remember  -> to Encrypt your wallet via password Keyphrase! + backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure!</li>
 <br />
-<b>Enjoy CloakCoin!!</b>
-
 <b>Linux installation</b><br />
 <li>If you have installed a previous version, please stop the running wallet.</li>
 <li>Backup your wallet.dat</li>
@@ -67,11 +63,11 @@ run cloakcoin with your user account
 Follow the instructions from the installer.
 Say yes to the 'auto blockchain downloader' this will be the faster way!
 Let your wallet find other nodes and sync the blockchain
-<br />
-<b>Enjoy CloakCoin!!</b>
- 
+
 
 If cloakcoin doesnt start, please post the output of
 
 dd cloakcoin-qt | grep found
 to the comments with your distribution name and version.
+
+<br />
