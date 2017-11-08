@@ -1,6 +1,6 @@
 # Cloak-Wallets
 ## Overview
-Cloakcoin 2.0.2.1 'DEFENDER' for Windows, Linux, MacOS and Raspberry Pi
+Cloakcoin 2.0.2.1 'DEFENDER' for Windows, Linux, MacOS.
  
 We are very pleased to present to you the latest update to the CloakCoin core software.
  
