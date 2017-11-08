@@ -84,5 +84,6 @@ dd cloakcoin-qt | grep found
 to the comments with your distribution name and version.
 
 ### - Cloakteam
-
+For additional help and support you can find us here:
+[Rocketchat](https://chat.cloakcoin.com)
 
